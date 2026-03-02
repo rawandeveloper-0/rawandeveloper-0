@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Rawan 👋
 
-<!--
-**rawandeveloper-0/rawandeveloper-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+IT Student at triOS College  
+Web Application Development with AI
 
-Here are some ideas to get you started:
+## 💻 Skills
+- HTML
+- CSS
+- Git & GitHub
+- Linux Basics
+- Networking Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Current Projects
+- Git Branching & PR Workflow Practice
+- HTML/CSS Mini Projects
+
+## 📫 Contact
+- GitHub: rawandeveloper-0
